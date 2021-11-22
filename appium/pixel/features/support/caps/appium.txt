@@ -1,0 +1,7 @@
+[caps]
+platformName = "Android"
+deviceName = "VirtualDevice"
+udid = "RQ8R804XLHV"
+app = "/Users/thaynara.ribeiro/Documents/estudosQA/qaninja/appium/app-debug.apk"
+appPackage = "qaninja.com.pixel"
+automationName = "uiautomator2"
